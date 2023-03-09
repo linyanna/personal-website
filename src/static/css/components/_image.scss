@@ -15,6 +15,10 @@
 			display: block;
 		}
 
+    .pixelImage {
+      image-rendering: pixelated;
+    }
+
 		&.left,
 		&.right {
 			max-width: 40%;

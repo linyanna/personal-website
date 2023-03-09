@@ -31,3 +31,9 @@
 ## Aesthetic items
 
 [] make colorful/fit scheme
+[] change color of navbar
+
+## Functionality items
+
+[] edit navbar to collapse when selecting outside of it
+[] get images to render gifs?
