@@ -24,7 +24,7 @@ const skills = [
   },
   {
     title: 'Amazon Web Services',
-    competency: 4,
+    competency: 2,
     category: ['Web Development', 'Tools'],
   },
   {
@@ -38,6 +38,16 @@ const skills = [
     category: ['Web Development', 'Databases'],
   },
   {
+    title: 'Android Studio',
+    competency: 4,
+    category: ['Tools'],
+  },
+  {
+    title: 'Unity',
+    competency: 3,
+    category: ['Tools'],
+  },
+  {
     title: 'Express.JS',
     competency: 2,
     category: ['Web Development', 'Javascript'],
@@ -49,7 +59,7 @@ const skills = [
   },
   {
     title: 'Git',
-    competency: 3,
+    competency: 4,
     category: ['Tools'],
   },
   {
@@ -59,7 +69,7 @@ const skills = [
   },
   {
     title: 'Tensorflow + Keras',
-    competency: 3,
+    competency: 1,
     category: ['Data Science', 'Python'],
   },
   {
@@ -69,7 +79,7 @@ const skills = [
   },
   {
     title: 'Typescript',
-    competency: 2,
+    competency: 1,
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
@@ -84,7 +94,7 @@ const skills = [
   },
   {
     title: 'C++',
-    competency: 2,
+    competency: 4,
     category: ['Languages'],
   },
   {
@@ -104,7 +114,7 @@ const skills = [
   },
   {
     title: 'Pandas',
-    competency: 5,
+    competency: 4,
     category: ['Data Engineering', 'Data Science', 'Python'],
   },
   {
@@ -114,12 +124,12 @@ const skills = [
   },
   {
     title: 'Scikit-Learn',
-    competency: 4,
+    competency: 3,
     category: ['Data Engineering', 'Data Science', 'Python'],
   },
   {
     title: 'Pylint',
-    competency: 4,
+    competency: 3,
     category: ['Data Engineering', 'Python'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
