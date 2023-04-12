@@ -5,7 +5,7 @@
 [x] about blurb in sidebar
 [x] about me
 [] add inspiration projects/websites
-[] better picture
+[x] better picture
 
 ## Resume items
 

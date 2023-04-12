@@ -22,6 +22,7 @@
 		top: 0;
 		width: 100%;
 		z-index: _misc(z-index-base);
+    user-select: none;
 
 		a {
 			color: inherit;
@@ -52,7 +53,6 @@
 
 		.links {
 			@include vendor('flex', '1');
-			border-left: solid 1px _palette(border);
 			height: inherit;
 			line-height: inherit;
 			margin-left: 1.5em;
@@ -61,8 +61,7 @@
 
 			ul {
 				li {
-					border-left: solid 1px _palette(border);
-					line-height: 1;
+					border-left: inherit;
 					margin-left: 1em;
 					padding-left: 1em;
 
@@ -196,6 +195,8 @@
 
 	#header .index-link {
 		z-index: 3;
+    margin-left: 1.5em;
+    padding-left: 1.5em;
 	}
 
 	#header .main .menu {
