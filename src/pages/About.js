@@ -32,7 +32,7 @@ const About = () => (
         renderers={{
           Link: LinkRenderer,
         }}
-        escapeHtml={false}
+        skipHtml={false}
       />
     </article>
   </Main>

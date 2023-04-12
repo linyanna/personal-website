@@ -18,11 +18,9 @@ const Index = () => (
           </p>
         </div>
       </header>
-      <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
-        or you can check out my {' '}
-        <Link to="/resume">resume</Link>, {' '}
+      <p> Welcome to my website! You can read more <Link to="/about">about me</Link>, check out my {' '}
+        <Link to="/resume">resume</Link>, {' view my '}
         <Link to="/projects">projects</Link>, {' '}
-        view <Link to="/stats">site statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
       <p> Source available <a href="https://github.com/linyanna/personal-website">here</a>.</p>
