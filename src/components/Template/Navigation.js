@@ -8,8 +8,16 @@ import routes from '../../data/routes';
 const Navigation = () => (
   <header id="header">
     <h1 className="index-link">
+      {/* <i className="icon">
+        <i className="sakura" />
+      </i> */}
       {routes.filter((l) => l.index).map((l) => (
-        <Link key={l.label} to={l.path}>{l.label}</Link>
+        <Link key={l.label} to={l.path}>
+          <i className="sakura">
+            <i className="sakura-header" />
+          </i>
+          {l.label}
+        </Link>
       ))}
     </h1>
     <nav className="links">

@@ -1,0 +1,25 @@
+
+/* Sakura Icon Component Thing */
+
+  .sakura {
+    background: url('../../../../public/images/sakura.png');
+    background-size: cover;
+    display: inline-flex;
+    vertical-align: middle;
+    margin: .5em;
+
+    transform: rotate(-25deg) translateY(-2px);
+    // z-index: -1;
+
+    .sakura-header {
+      height: 20px;
+      width: 22.5px;
+    }
+
+    .sakura-h2 {
+      height: 40px;
+      width: 45px;
+    }
+
+    
+  }

@@ -14,7 +14,7 @@
 [x] courses
 [x] skills (data itself)
 [] how skills are visualized
-[] email on contact page
+[x] email on contact page
 
 ## Contact items
 
@@ -28,7 +28,10 @@
 ## Aesthetic items
 
 [] make colorful/fit scheme
+[] blossom animation and toggle
+[] light/dark mode and toggle
 [x] change color of navbar
+[x] added cherry blossom icon
 
 ## Functionality items
 
