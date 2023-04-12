@@ -38,6 +38,11 @@ const skills = [
     category: ['Web Development', 'Databases'],
   },
   {
+    title: 'SQL',
+    competency: 4,
+    category: ['Data Engineering', 'Databases'],
+  },
+  {
     title: 'Android Studio',
     competency: 4,
     category: ['Tools'],

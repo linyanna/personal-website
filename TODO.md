@@ -19,19 +19,16 @@
 ## Contact items
 
 [] contact information animation
-[] social media, get rid of angel.to
+[x] social media, get rid of angel.co
 
 ## Stats
 
-[] fix GH stats, link to mine or get rid of?
-[] figure out what a spoon is? related to fork??
-[] wait actually, prolly
-[] good joke
+[x] get rid of Stats page
 
 ## Aesthetic items
 
 [] make colorful/fit scheme
-[] change color of navbar
+[x] change color of navbar
 
 ## Functionality items
 
