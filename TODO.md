@@ -32,6 +32,7 @@
 [] light/dark mode and toggle
 [x] change color of navbar
 [x] added cherry blossom icon
+[x] added favicon
 
 ## Functionality items
 
