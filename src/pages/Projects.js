@@ -14,7 +14,14 @@ const Projects = () => (
     <article className="post" id="projects">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/projects">Projects</Link></h2>
+          <h2 data-testid="heading">
+            <Link to="/projects">
+              <i className="sakura">
+                <i className="sakura-h2" />
+              </i>
+              Projects
+            </Link>
+          </h2>
           <p>A few of my projects! (A lot being WIPs)</p>
         </div>
       </header>

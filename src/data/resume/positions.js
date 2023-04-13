@@ -7,7 +7,7 @@ const positions = [
     points: [],
   },
   {
-    company: 'Unviversity of Florida',
+    company: 'University of Florida',
     position: 'Undergraduate Researcher',
     link: 'https://www.cise.ufl.edu/~eragan/indie.html',
     daterange: 'August 2022 - present',
@@ -17,7 +17,7 @@ const positions = [
     ],
   },
   {
-    company: 'Unviversity of Florida',
+    company: 'University of Florida',
     position: 'Full Stack Developer',
     link: '',
     daterange: 'May 2022 - August 2022',

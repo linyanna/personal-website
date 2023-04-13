@@ -19,7 +19,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hey everyone, I&apos;m Yanna! I&apos;m a student at the <a href="https://icme.stanford.edu/">University of Florida</a> and undergraduate researcher at the <a href="https://www.cise.ufl.edu/~eragan/indie.html">INDIE Lab</a>. Fun fact: I love building and learning new things!
+      <p>Hey everyone, I&apos;m Yanna! I&apos;m a Computer Science student at the <a href="https://icme.stanford.edu/">University of Florida</a> and an undergraduate researcher at the <a href="https://www.cise.ufl.edu/~eragan/indie.html">INDIE Lab</a>. Fun fact: I love building and learning new things!
       </p>
       <ul className="actions">
         <li>

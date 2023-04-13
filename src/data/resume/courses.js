@@ -55,7 +55,7 @@ const courses = [
     university: 'UF',
   },
   {
-    title: 'Airtificial Intelligence for Games',
+    title: 'Artificial Intelligence for Games',
     number: 'CAP4053',
     link: '',
     university: 'UF',
