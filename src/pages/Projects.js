@@ -22,7 +22,7 @@ const Projects = () => (
               Projects
             </Link>
           </h2>
-          <p>A few of my projects! (A lot being WIPs)</p>
+          <p>A few of my projects!</p>
         </div>
       </header>
       {data.map((project) => (
