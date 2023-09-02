@@ -1,25 +1,25 @@
-// TODO: Add Athletic Skills, Office Skills,
-// Data Engineering, Data Science, ML Engineering, ... ?
+// Categories:
+// Data Engineering, Web Development, Languages, JavaScript, Tools, Python, Visualization
 
 const skills = [
   {
-    title: 'Javascript',
+    title: 'JavaScript',
     competency: 4,
-    category: ['Web Development', 'Languages', 'Javascript'],
+    category: ['Web Development', 'Languages', 'JavaScript'],
   },
   {
     title: 'Node.JS',
-    competency: 3,
-    category: ['Web Development', 'Javascript'],
+    competency: 4,
+    category: ['Web Development', 'JavaScript'],
   },
   {
     title: 'React',
-    competency: 3,
-    category: ['Web Development', 'Javascript'],
+    competency: 4,
+    category: ['Web Development', 'JavaScript'],
   },
   {
     title: 'Bash',
-    competency: 2,
+    competency: 3,
     category: ['Tools', 'Languages'],
   },
   {
@@ -35,12 +35,12 @@ const skills = [
   {
     title: 'MongoDB',
     competency: 3,
-    category: ['Web Development', 'Databases'],
+    category: ['Web Development', 'Data Engineering', 'Tools'],
   },
   {
     title: 'SQL',
     competency: 4,
-    category: ['Data Engineering', 'Databases'],
+    category: ['Data Engineering', 'Languages'],
   },
   {
     title: 'Android Studio',
@@ -54,47 +54,42 @@ const skills = [
   },
   {
     title: 'Express.JS',
-    competency: 2,
-    category: ['Web Development', 'Javascript'],
+    competency: 3,
+    category: ['Web Development', 'JavaScript'],
   },
   {
     title: 'D3',
     competency: 2,
-    category: ['Web Development', 'Javascript'],
+    category: ['Web Development', 'JavaScript', 'Visualization'],
   },
   {
     title: 'Git',
-    competency: 4,
+    competency: 5,
     category: ['Tools'],
   },
   {
     title: 'Numpy',
     competency: 3,
-    category: ['Data Science', 'Data Engineering', 'Python'],
-  },
-  {
-    title: 'Tensorflow + Keras',
-    competency: 1,
-    category: ['Data Science', 'Python'],
+    category: ['Data Engineering', 'Python'],
   },
   {
     title: 'Jupyter',
     competency: 3,
-    category: ['Data Science', 'Python'],
+    category: ['Data Engineering', 'Python'],
   },
   {
     title: 'Typescript',
     competency: 1,
-    category: ['Web Development', 'Languages', 'Javascript'],
+    category: ['Web Development', 'Languages', 'JavaScript'],
   },
   {
     title: 'HTML + SASS/SCSS/CSS',
-    competency: 3,
+    competency: 4,
     category: ['Web Development', 'Languages'],
   },
   {
     title: 'Python',
-    competency: 5,
+    competency: 4,
     category: ['Languages', 'Python'],
   },
   {
@@ -113,24 +108,19 @@ const skills = [
     category: ['Languages'],
   },
   {
-    title: 'Data Visualization',
-    competency: 3,
-    category: ['Data Science', 'Javascript'],
-  },
-  {
     title: 'Pandas',
     competency: 4,
-    category: ['Data Engineering', 'Data Science', 'Python'],
+    category: ['Data Engineering', 'Python'],
   },
   {
     title: 'Matplotlib',
     competency: 3,
-    category: ['Data Engineering', 'Data Science', 'Python'],
+    category: ['Data Engineering', 'Python', 'Visualization'],
   },
   {
     title: 'Scikit-Learn',
     competency: 3,
-    category: ['Data Engineering', 'Data Science', 'Python'],
+    category: ['Data Engineering', 'Python'],
   },
   {
     title: 'Pylint',
@@ -142,17 +132,13 @@ const skills = [
 // this is a list of colors that I like. The length should be == to the
 // number of categories. Re-arrange this list until you find a pattern you like.
 const colors = [
-  '#6968b3',
-  '#37b1f5',
-  '#40494e',
-  '#515dd4',
-  '#e47272',
-  '#cc7b94',
-  '#3896e2',
-  '#c3423f',
-  '#d75858',
-  '#747fff',
-  '#64cb7b',
+  '#773350',
+  '#d89bad',
+  '#413c58',
+  '#b49392',
+  '#40798c',
+  '1b998b',
+  '564e53',
 ];
 
 const categories = [

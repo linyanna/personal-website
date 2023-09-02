@@ -10,7 +10,7 @@ If you have any questions, please free to reach out to me!
 # Some things I like
 
 - Listening to/playing music
-- [Books](https://goodreads.com/yannalin)
+- Books ([Goodreads](https://goodreads.com/yannalin))
 - Watching films and shows
 - Japanese animation (Studio Ghibli, Makoto Shinkai, Satoshi Kon, etc.)
 - Playing video games ([Stardew Valley](https://stardewvalley.net/), [Genshin Impact](https://genshin.hoyoverse.com/en/), Don't Starve)
