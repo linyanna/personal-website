@@ -24,7 +24,7 @@ const Index = () => (
       <p> Welcome to my website! You can read more <Link to="/about">about me</Link>, check out my {' '}
         <Link to="/resume">resume</Link>, {' view my '}
         <Link to="/projects">projects</Link>, {' '}
-        or <Link to="/contact">contact</Link> me. My Github repository for the site is available <a href="https://github.com/linyanna/personal-website"><i>here</i></a>. Special thanks to <a href="https://mldangelo.com/">Michael D&apos;Angelo</a> for his original source code.
+        or <Link to="/contact">contact</Link> me. My Github repository for the site is available <a href="https://github.com/linyanna/personal-website" target="_blank" rel="noreferrer noopener"><i>here</i></a>. Special thanks to <a href="https://mldangelo.com/" target="_blank" rel="noreferrer noopener">Michael D&apos;Angelo</a> for his design template.
       </p>
     </article>
   </Main>

@@ -14,7 +14,7 @@ const courses = [
   {
     title: 'Enterprise Software Engineering Practices',
     number: 'CIS4930',
-    link: '',
+    link: 'https://catalog.ufl.edu/UGRD/courses/computer_and_information_science_and_engineering/',
     university: 'UF',
   },
   {
@@ -32,8 +32,7 @@ const courses = [
   {
     title: 'Operating Systems',
     number: 'COP4600',
-    link:
-      'https://catalog.ufl.edu/UGRD/courses/computer_and_information_science_and_engineering/',
+    link: 'https://catalog.ufl.edu/UGRD/courses/computer_and_information_science_and_engineering/',
     university: 'UF',
   },
   {
@@ -45,43 +44,43 @@ const courses = [
   {
     title: 'Wearable and Mobile App Development',
     number: 'DIG4634',
-    link: '',
+    link: 'https://catalog.ufl.edu/UGRD/courses/digital_worlds_institute/',
     university: 'UF',
   },
   {
     title: 'Artificial Intelligence Fundamentals',
     number: 'EEL3872',
-    link: '',
+    link: 'https://catalog.ufl.edu/UGRD/courses/computer_and_information_science_and_engineering/',
     university: 'UF',
   },
   {
     title: 'Artificial Intelligence for Games',
     number: 'CAP4053',
-    link: '',
+    link: 'https://catalog.ufl.edu/UGRD/courses/computer_and_information_science_and_engineering/',
     university: 'UF',
   },
   {
     title: 'Introduction to Cybersecurity',
     number: 'CYB101',
-    link: '',
+    link: 'https://www.codepath.org/courses/cybersecurity',
     university: 'Codepath',
   },
   {
     title: 'Introduction to Discrete Structures',
     number: 'COT3100',
-    link: '',
+    link: 'https://catalog.ufl.edu/UGRD/courses/computer_and_information_science_and_engineering/',
     university: 'UF',
   },
   {
     title: 'Computational Linear Algebra',
     number: 'MAS3114',
-    link: '',
+    link: 'https://dualenrollment.dce.ufl.edu/course/mas-3114-computational-and-linear-algebra/',
     university: 'UF',
   },
   {
     title: 'Engineering Statistics',
     number: 'STA3032',
-    link: '',
+    link: 'https://catalog.ufl.edu/UGRD/courses/statistics/',
     university: 'UF',
   },
 ];
