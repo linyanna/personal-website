@@ -13,5 +13,5 @@ If you have any questions, please free to reach out to me!
 - [Books](https://goodreads.com/yannalin)
 - Watching films and shows
 - Japanese animation (Studio Ghibli, Makoto Shinkai, Satoshi Kon, etc.)
-- Playing video games ([Stardew Valley](https://stardewvalley.net/), [Genshin Impact](https://genshin.hoyoverse.com/en/))
-- Podcasts ([Darkent Diaries](https://darknetdiaries.com/), [The InfoQ Podcast](https://www.infoq.com/the-infoq-podcast/), [Ologies with Alie Ward](https://www.alieward.com/ologies))
+- Playing video games ([Stardew Valley](https://stardewvalley.net/), [Genshin Impact](https://genshin.hoyoverse.com/en/), Don't Starve)
+- Podcasts ([Darknet Diaries](https://darknetdiaries.com/), [The InfoQ Podcast](https://www.infoq.com/the-infoq-podcast/), [Ologies with Alie Ward](https://www.alieward.com/ologies))

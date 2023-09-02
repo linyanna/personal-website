@@ -38,3 +38,10 @@
 
 [] edit navbar to collapse when selecting outside of it
 [] get images to render gifs?
+
+## Cool extra stuff
+
+[] search bar
+[] text-to-speech (in my voice??)
+[] play my top spotify song at the moment
+

@@ -1,10 +1,19 @@
 const positions = [
   {
     company: 'American Express',
-    position: 'Incoming Software Engineering Intern',
+    position: 'Software Engineering Intern',
     link: '',
     daterange: 'June 2023 - August 2023',
-    points: [],
+    points: ['Wrote a GitHub Actions workflow to automate a scheduled run of an internal data crawling solution and store its database output into a content delivery network for retrieval', 'Fetched and loaded the SQLite database in the browser and wrote queries to obtain important metrics using Sql.js', 'Designed a dashboard to display metrics and allow users to execute custom queries against the database using an internal framework built on the React library', 'Ensured 100 percent test coverage of dashboard application using the React testing library and Jest'],
+  },
+  {
+    company: 'University of Florida',
+    position: 'Teaching Assistant',
+    link: '',
+    daterange: 'August 2023 - present',
+    points: [
+      'Aid in developing Intro to Software Engineering course structure as a Teaching Assistant', 'Support students in learning the technical skills for frontend and backend development through office hours and discussions',
+    ],
   },
   {
     company: 'University of Florida',
