@@ -1,15 +1,20 @@
 import React, { useState, useEffect, useRef } from 'react';
 import PropTypes from 'prop-types';
 
-// Validates the first half of an email address.
-const validateText = (text) => {
-  // NOTE: Passes RFC 5322 but not tested on google's standard.
-  // eslint-disable-next-line no-useless-escape
-  const re = /^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))$/;
-  return re.test(text) || text.length === 0;
-};
+// // Validates the first half of an email address.
+// const validateText = (text) => {
+//   // NOTE: Passes RFC 5322 but not tested on google's standard.
+//   // eslint-disable-next-line no-useless-escape
+//   const re = /^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))$/;
+//   return re.test(text) || text.length === 0;
+// };
 
 const messages = [
+  'limeyam...',
+  'no, wait a minute...',
+  'lynnyonnar...',
+  'no, that\'s not it...',
+  'here we go...',
   'linyanna@yahoo.com',
 ];
 
@@ -32,8 +37,8 @@ const useInterval = (callback, delay) => {
 };
 
 const EmailLink = ({ loopMessage }) => {
-  const hold = 50; // ticks to wait after message is complete before rendering next message
-  const delay = 50; // tick length in mS
+  const hold = 10; // ticks to wait after message is complete before rendering next message
+  const delay = 150; // tick length in mS
 
   const [idx, updateIter] = useState(0); // points to current message
   const [message, updateMessage] = useState(messages[idx]);
@@ -64,13 +69,12 @@ const EmailLink = ({ loopMessage }) => {
   return (
     <div
       className="inline-container"
-      style={validateText(message) ? {} : { color: '#a66a8c' }}
+      style={{ color: '#413c58' }}
       onMouseEnter={() => setIsActive(false)}
       onMouseLeave={() => (idx < messages.length) && setIsActive(true)}
     >
-      <a href={validateText(message) ? `mailto:${message}@yannalin.dev` : ''}>
+      <a href="mailto:linyanna@yahoo.com">
         <span>{message}</span>
-        {/* <span>@yannalin.dev</span> */}
       </a>
     </div>
   );
